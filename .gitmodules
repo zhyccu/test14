@@ -1,6 +1,3 @@
 [submodule "CoastalApp"]
 	path = CoastalApp
 	url = https://github.com/zhyccu25/CoastalApp_template
-[submodule "Coastal/NEMS"]
-	path = Coastal/NEMS
-	url = https://github.com/zhyccu25/NEMS
