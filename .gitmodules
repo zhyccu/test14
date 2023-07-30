@@ -1,0 +1,3 @@
+[submodule "CoastalApp"]
+	path = CoastalApp
+	url = https://github.com/zhyccu25/CoastalApp_template
